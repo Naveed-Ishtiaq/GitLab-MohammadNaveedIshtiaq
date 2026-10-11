@@ -1,0 +1,2 @@
+The staging area is useful as it creates a workspace where changes can be made before committing, that way 
+we are able to check the files at any stage before pushing it into the repository.
